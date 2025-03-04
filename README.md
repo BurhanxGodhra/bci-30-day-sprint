@@ -1,2 +1,4 @@
-# bci-30-day-sprint
-I am on my 30 day BCI Sprint of learning and creating interesting projects. Hop on the journey with me helping me learn and create in a better way.
+# BCI - 30 Day Sprint
+This repository documents a 30-day technical sprint focused on advancing Brain-Computer Interface (BCI) development through EEG signal processing and classification. It includes an end-to-end pipeline for simulating multi-band EEG signals, extracting time-domain features (e.g., band power), and training machine learning models (SVM, Logistic Regression) for state decoding tasks such as rest, focus, and motor imagery. The project aims to validate synthetic workflows against real-world datasets (e.g., BCI Competition IV) while exploring advanced techniques like deep learning and domain adaptation for noisy EEG signals. Contributions and feedback are welcome to enhance the robustness and scalability of the methodologies.
+
+🔗 Explore the code and join the effort to push the boundaries of neurotechnology!
